@@ -89,6 +89,6 @@ LibraryManagementSystem/
 * Improved logical and problem-solving skills
 
 ## Author
-Akankshya Dibyadarsinee Rout
+Akankshya Dibyadarsinee Rout (Google @2028)
 24BAI10724
 B.Tech (AIML) | VIT Bhopal University
